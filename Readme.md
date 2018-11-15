@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/DXPivotGrid_CustomFilterItems/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DXPivotGrid_CustomFilterItems/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/DXPivotGrid_CustomFilterItems/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/DXPivotGrid_CustomFilterItems/MainWindow.xaml))
+<!-- default file list end -->
 # How to add and remove items from the filter drop-down list
 
 
